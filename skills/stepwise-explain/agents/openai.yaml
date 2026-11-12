@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐节讲解"
+  short_description: "把多步问题拆成节：先给路线图，一次只讲一节，每节说明位置，讲完停下来等你确认"
+  default_prompt: "使用 $stepwise-explain 分节讲解这个问题：先只给路线图，我确认后一次只讲一节，每节开头说明它在整体框架中的位置，讲完停下来等我示意懂了再继续。"
