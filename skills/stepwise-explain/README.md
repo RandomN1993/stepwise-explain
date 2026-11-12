@@ -35,7 +35,7 @@
 
 涉及对比时一律并排多列（维度做行、对象做列），差异处标「▲」，不用"先说 A 再说 B"的两段式。
 
-你提过的全部要求整理在仓库根目录 [REQUIREMENTS.md](../../REQUIREMENTS.md)，按提出顺序编号并标注落地位置。
+你提过的全部要求整理在 [REQUIREMENTS.md](https://github.com/RandomN1993/stepwise-explain/blob/main/REQUIREMENTS.md)，按提出顺序编号并标注落地位置。
 
 收束页的改进方向分「可行」与「不可行」，不可行的要写清破坏哪个假设或触发哪种攻击。你选中哪条，才为它生成背景卡，复制到新会话继续按同一方式讲——新会话同样先给骨架页。
 
