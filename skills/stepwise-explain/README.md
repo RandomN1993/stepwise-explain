@@ -1,6 +1,6 @@
 # 逐节讲解（stepwise-explain）
 
-> GitHub: <https://github.com/RandomN1993/stepwise-explain>
+> GitHub: <https://github.com/RandomN1993/stepwise-explain>　·　版本 v7.0.0（2026-11-14）
 
 把需要多步理解的问题拆成若干节：先只给路线图，确认后一次只讲一节，每节开头说明它在整体框架中的位置，节末用一个可检验的问题停住，等你说懂了再讲下一节。
 
